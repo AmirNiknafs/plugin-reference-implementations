@@ -29,6 +29,6 @@ jobs:
     - name: Run tests
       run: npm test
 
-    - name Deploy to Socotra
-      run: echo "Deploy to Socotra"
+    - name: Deploy to Socotra
+      run: echo "Deploy to Socotra" 
 
